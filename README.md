@@ -13,4 +13,6 @@ How to execute.
 `npm install`
 
 <br/>
-`react-native run-android` or `react-native run-ios`
+`npm install`
+
+<br/>
