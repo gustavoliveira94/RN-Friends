@@ -12,7 +12,4 @@ How to execute.
 <br/>
 `npm install`
 
-<br/>
-`npm install`
-
-<br/>
+<br/> >npm install
