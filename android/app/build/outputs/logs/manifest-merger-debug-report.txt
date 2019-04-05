@@ -1,0 +1,211 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Gustavo\Desktop\desafio\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\Gustavo\Desktop\desafio\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\Gustavo\Desktop\desafio\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\Gustavo\Desktop\desafio\android\app\src\main\AndroidManifest.xml:1:1-26:12
+MERGED from C:\Users\Gustavo\Desktop\desafio\android\app\src\main\AndroidManifest.xml:1:1-26:12
+MERGED from [com.facebook.react:react-native:0.59.3] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\react-native-0.59.3.aar\4b4458815bed43e9e03bfbc4ca2fac4d\AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\876b5676a9c608d90dad30362dd251da\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\d52a4dfb117fc9ef697144bc4d222b17\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\f052ef3e681778f6ec3f163650850acd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\878bce7c42dfc2978ddbd0644eb1890e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\75de3fd247f44254aa50bdde9623ce7f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\7c72911e9b56e2a1bf78c21fda71b4ed\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\5e302dc7236fe239efd3a5c69e5c098e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\e06259529cf7513f129002d00c91cb3b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\e7097c96b43dae51f6243037b9cfe747\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\3e9d11639f86f9493a6cf4579bfa162f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\1707f154b641edaf96b8788cb4a4c3a8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\5886c38565deba5534b02fcf89a22a49\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\6a449410fb64b534b5c09691fab7fe5f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\eb3b6e63e4d2939693637e1c539f186a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2cb2e1d342365e5b81964718f1f99a52\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\ab91276b766430ce226d6df72f5fe9f1\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\c79946799dd4dbd5e5f589ae8e78b27c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\c4160f0d792bc6ece54fcd622f62a05e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\afb95843cc06ea72eda3b27892cb2381\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\546edcdbc83f79b9f79c46b77c6c1371\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\f15718658229e2c4eed55e5f952da3eb\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\2de13b086c17dcaff1935c4294793449\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\a1137ccf6fab40d2b78c83067b690f7a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\9ead1be4b857bcfe7c744c686c5d7bae\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\ff061c5306f1a9141be576d9b60da4e5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\b134989f8c597e799ecdba66f6e76124\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\0b9b43e7f51216354ed9b3623ed367c3\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\76cfe17f321ff450e9ea17a64fbc667f\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\7076cdc886bf808c8be6a483e075dc1e\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\efea61b8cdbe35e03a1fed7569442bfb\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\5df902d1080e6b3d2ecafb9a15a80d3e\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\soloader-0.6.0.aar\6de60e6c4ace5b23ed275e6ca0937fd7\AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\5112af319fa8b188fd7d29a1e93c90f5\AndroidManifest.xml:2:1-9:12
+INJECTED from C:\Users\Gustavo\Desktop\desafio\android\app\src\debug\AndroidManifest.xml:2:1-8:12
+INJECTED from C:\Users\Gustavo\Desktop\desafio\android\app\src\debug\AndroidManifest.xml:2:1-8:12
+INJECTED from C:\Users\Gustavo\Desktop\desafio\android\app\src\debug\AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from C:\Users\Gustavo\Desktop\desafio\android\app\src\main\AndroidManifest.xml:2:3-24
+		INJECTED from C:\Users\Gustavo\Desktop\desafio\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Gustavo\Desktop\desafio\android\app\src\main\AndroidManifest.xml:2:3-24
+		INJECTED from C:\Users\Gustavo\Desktop\desafio\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Gustavo\Desktop\desafio\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Gustavo\Desktop\desafio\android\app\src\main\AndroidManifest.xml:1:1-26:12
+		INJECTED from C:\Users\Gustavo\Desktop\desafio\android\app\src\debug\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Gustavo\Desktop\desafio\android\app\src\debug\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\Gustavo\Desktop\desafio\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Gustavo\Desktop\desafio\android\app\src\main\AndroidManifest.xml:1:1-26:12
+		INJECTED from C:\Users\Gustavo\Desktop\desafio\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Gustavo\Desktop\desafio\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Gustavo\Desktop\desafio\android\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from C:\Users\Gustavo\Desktop\desafio\android\app\src\main\AndroidManifest.xml:4:22-64
+application
+ADDED from C:\Users\Gustavo\Desktop\desafio\android\app\src\main\AndroidManifest.xml:6:5-24:19
+MERGED from C:\Users\Gustavo\Desktop\desafio\android\app\src\main\AndroidManifest.xml:6:5-24:19
+MERGED from C:\Users\Gustavo\Desktop\desafio\android\app\src\main\AndroidManifest.xml:6:5-24:19
+MERGED from [com.facebook.react:react-native:0.59.3] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\react-native-0.59.3.aar\4b4458815bed43e9e03bfbc4ca2fac4d\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.59.3] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\react-native-0.59.3.aar\4b4458815bed43e9e03bfbc4ca2fac4d\AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2cb2e1d342365e5b81964718f1f99a52\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2cb2e1d342365e5b81964718f1f99a52\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\ab91276b766430ce226d6df72f5fe9f1\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\ab91276b766430ce226d6df72f5fe9f1\AndroidManifest.xml:22:5-23:19
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\soloader-0.6.0.aar\6de60e6c4ace5b23ed275e6ca0937fd7\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\soloader-0.6.0.aar\6de60e6c4ace5b23ed275e6ca0937fd7\AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2cb2e1d342365e5b81964718f1f99a52\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from C:\Users\Gustavo\Desktop\desafio\android\app\src\main\AndroidManifest.xml:8:7-39
+		ADDED from C:\Users\Gustavo\Desktop\desafio\android\app\src\main\AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from C:\Users\Gustavo\Desktop\desafio\android\app\src\debug\AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from C:\Users\Gustavo\Desktop\desafio\android\app\src\main\AndroidManifest.xml:10:7-52
+		ADDED from C:\Users\Gustavo\Desktop\desafio\android\app\src\main\AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from C:\Users\Gustavo\Desktop\desafio\android\app\src\debug\AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from C:\Users\Gustavo\Desktop\desafio\android\app\src\main\AndroidManifest.xml:9:7-41
+		ADDED from C:\Users\Gustavo\Desktop\desafio\android\app\src\main\AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from C:\Users\Gustavo\Desktop\desafio\android\app\src\main\AndroidManifest.xml:11:7-34
+		ADDED from C:\Users\Gustavo\Desktop\desafio\android\app\src\main\AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from C:\Users\Gustavo\Desktop\desafio\android\app\src\main\AndroidManifest.xml:12:7-38
+		ADDED from C:\Users\Gustavo\Desktop\desafio\android\app\src\main\AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from C:\Users\Gustavo\Desktop\desafio\android\app\src\debug\AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from C:\Users\Gustavo\Desktop\desafio\android\app\src\main\AndroidManifest.xml:7:7-38
+		ADDED from C:\Users\Gustavo\Desktop\desafio\android\app\src\main\AndroidManifest.xml:7:7-38
+activity#com.desafio.MainActivity
+ADDED from C:\Users\Gustavo\Desktop\desafio\android\app\src\main\AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from C:\Users\Gustavo\Desktop\desafio\android\app\src\main\AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from C:\Users\Gustavo\Desktop\desafio\android\app\src\main\AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from C:\Users\Gustavo\Desktop\desafio\android\app\src\main\AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from C:\Users\Gustavo\Desktop\desafio\android\app\src\main\AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Gustavo\Desktop\desafio\android\app\src\main\AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from C:\Users\Gustavo\Desktop\desafio\android\app\src\main\AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from C:\Users\Gustavo\Desktop\desafio\android\app\src\main\AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Gustavo\Desktop\desafio\android\app\src\main\AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from C:\Users\Gustavo\Desktop\desafio\android\app\src\main\AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from C:\Users\Gustavo\Desktop\desafio\android\app\src\main\AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from C:\Users\Gustavo\Desktop\desafio\android\app\src\main\AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from C:\Users\Gustavo\Desktop\desafio\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Gustavo\Desktop\desafio\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Gustavo\Desktop\desafio\android\app\src\main\AndroidManifest.xml
+MERGED from [com.facebook.react:react-native:0.59.3] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\react-native-0.59.3.aar\4b4458815bed43e9e03bfbc4ca2fac4d\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.59.3] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\react-native-0.59.3.aar\4b4458815bed43e9e03bfbc4ca2fac4d\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\876b5676a9c608d90dad30362dd251da\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\876b5676a9c608d90dad30362dd251da\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\d52a4dfb117fc9ef697144bc4d222b17\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\d52a4dfb117fc9ef697144bc4d222b17\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\f052ef3e681778f6ec3f163650850acd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\f052ef3e681778f6ec3f163650850acd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\878bce7c42dfc2978ddbd0644eb1890e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\878bce7c42dfc2978ddbd0644eb1890e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\75de3fd247f44254aa50bdde9623ce7f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\75de3fd247f44254aa50bdde9623ce7f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\7c72911e9b56e2a1bf78c21fda71b4ed\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\7c72911e9b56e2a1bf78c21fda71b4ed\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\5e302dc7236fe239efd3a5c69e5c098e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\5e302dc7236fe239efd3a5c69e5c098e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\e06259529cf7513f129002d00c91cb3b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\e06259529cf7513f129002d00c91cb3b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\e7097c96b43dae51f6243037b9cfe747\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\e7097c96b43dae51f6243037b9cfe747\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\3e9d11639f86f9493a6cf4579bfa162f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\3e9d11639f86f9493a6cf4579bfa162f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\1707f154b641edaf96b8788cb4a4c3a8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\1707f154b641edaf96b8788cb4a4c3a8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\5886c38565deba5534b02fcf89a22a49\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\5886c38565deba5534b02fcf89a22a49\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\6a449410fb64b534b5c09691fab7fe5f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\6a449410fb64b534b5c09691fab7fe5f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\eb3b6e63e4d2939693637e1c539f186a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\eb3b6e63e4d2939693637e1c539f186a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2cb2e1d342365e5b81964718f1f99a52\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2cb2e1d342365e5b81964718f1f99a52\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\ab91276b766430ce226d6df72f5fe9f1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\ab91276b766430ce226d6df72f5fe9f1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\c79946799dd4dbd5e5f589ae8e78b27c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\c79946799dd4dbd5e5f589ae8e78b27c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\c4160f0d792bc6ece54fcd622f62a05e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\c4160f0d792bc6ece54fcd622f62a05e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\afb95843cc06ea72eda3b27892cb2381\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\afb95843cc06ea72eda3b27892cb2381\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\546edcdbc83f79b9f79c46b77c6c1371\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\546edcdbc83f79b9f79c46b77c6c1371\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\f15718658229e2c4eed55e5f952da3eb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\f15718658229e2c4eed55e5f952da3eb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\2de13b086c17dcaff1935c4294793449\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\2de13b086c17dcaff1935c4294793449\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\a1137ccf6fab40d2b78c83067b690f7a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\a1137ccf6fab40d2b78c83067b690f7a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\9ead1be4b857bcfe7c744c686c5d7bae\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\9ead1be4b857bcfe7c744c686c5d7bae\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\ff061c5306f1a9141be576d9b60da4e5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\ff061c5306f1a9141be576d9b60da4e5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\b134989f8c597e799ecdba66f6e76124\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\b134989f8c597e799ecdba66f6e76124\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\0b9b43e7f51216354ed9b3623ed367c3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\0b9b43e7f51216354ed9b3623ed367c3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\76cfe17f321ff450e9ea17a64fbc667f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\76cfe17f321ff450e9ea17a64fbc667f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\7076cdc886bf808c8be6a483e075dc1e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\7076cdc886bf808c8be6a483e075dc1e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\efea61b8cdbe35e03a1fed7569442bfb\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\efea61b8cdbe35e03a1fed7569442bfb\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\5df902d1080e6b3d2ecafb9a15a80d3e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\5df902d1080e6b3d2ecafb9a15a80d3e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\soloader-0.6.0.aar\6de60e6c4ace5b23ed275e6ca0937fd7\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\soloader-0.6.0.aar\6de60e6c4ace5b23ed275e6ca0937fd7\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\5112af319fa8b188fd7d29a1e93c90f5\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\Gustavo\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\5112af319fa8b188fd7d29a1e93c90f5\AndroidManifest.xml:5:5-7:41
+INJECTED from C:\Users\Gustavo\Desktop\desafio\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\Users\Gustavo\Desktop\desafio\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Gustavo\Desktop\desafio\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Gustavo\Desktop\desafio\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Gustavo\Desktop\desafio\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Gustavo\Desktop\desafio\android\app\src\debug\AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from C:\Users\Gustavo\Desktop\desafio\android\app\src\debug\AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from C:\Users\Gustavo\Desktop\desafio\android\app\src\debug\AndroidManifest.xml:5:22-75
