@@ -11,3 +11,6 @@ How to execute.
 `cd rn-friends`
 <br/>
 `npm install`
+
+<br/>
+`react-native run-android or react-native run-ios`
